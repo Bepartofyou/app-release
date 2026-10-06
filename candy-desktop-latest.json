@@ -1,0 +1,15 @@
+{
+  "version": "0.1.8",
+  "notes": "Candy Desktop 0.1.8",
+  "pub_date": "2026-10-06T11:25:14Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbmlxS2t3M1IxTEhNQ3JuaG11VUlJUUl3RHRwYU1tSHFmMTNnME1PK0M5VGlaTEpMNWpUL0xtM1JPODNOUlVNVWNLT2d2UnVjZW9wZTUvOWpROTlpNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjg1OTE0CWZpbGU6Q2FuZHktMC4xLjgtd2luZG93cy14ODZfNjQuZXhlCXZlcnNpb246MC4xLjgKcmJmZ3pTeFQyTldUekJtc2VMRml3V21jTHJXRCsybFFPUWhJbTFTRm5DbVVkVWVRN1RzTExiY3UxUURkSTZXcFZxSVc4N2RqUjhPa2tnMExVcXphQXc9PQo=",
+      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.8/Candy-0.1.8-windows-x86_64.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbmpXK29BV094eUV6b1hKc2VTaGw0R3lVUHA2Zy82RUlML1NVZHVoQnRwYlFGdFhlQ21uL0FwTG1RRGh3WHJRWDFpdzRYMXRydFBic2R4QTd6NDgxTGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjc2MTAyCWZpbGU6Q2FuZHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS44Cnh1K2VGb1IxRWZqVU03ejR3VWNCUTB3a2lteVNkOHpmTXdpTklBOGQ5cENVbHhEYmhXeUFKNmFxakM4cmVLSS9qZEpacm1KSlhwRWdlSE1MbGZqb0FBPT0K",
+      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.8/Candy-0.1.8-macos-arm64.app.tar.gz"
+    }
+  }
+}
