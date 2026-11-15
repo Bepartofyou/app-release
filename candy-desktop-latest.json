@@ -1,23 +1,23 @@
 {
-  "version": "0.1.13",
-  "notes": "Candy Desktop 0.1.13: device metadata refresh, stable settings navigation and one-click Windows installers.",
-  "pub_date": "2026-10-17T18:37:15.982234Z",
+  "version": "0.1.14",
+  "notes": "Candy Desktop 0.1.14: complete startup tokens, stable paths and cross-center relay support.",
+  "pub_date": "2026-11-15T02:15:18.003706Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbnFnMUJKeG4wM3dmSExSeFkxRStIcDhDMUVBdXAzVWg4Njg0TEVIeGVqT1hFUHVDVDdNRnpSS3I4bDFaS1A2RmlSVWo0VkF6Zm1kbGVTWlBLRUdndVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYwMTQ1CWZpbGU6Q2FuZHktMC4xLjEzLXdpbmRvd3MteDg2XzY0LmV4ZQl2ZXJzaW9uOjAuMS4xMwpsSmxQNHBtV3VtTmJKU3lydXU0cUhvR2xlYXZPVlA2T1B4YkVsMU1tbEpXV0FRUjZaQVQ1dGh5QVZNQjQ5S3Z2SjZobFpoZXR0Ym5iTFJoMEZqckJBZz09Cg==",
-      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.13/Candy-0.1.13-windows-x86_64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbmp6bXBwQnEzaDRIVUlGVVM3b3Vzd1Q0RVN5cjN6MjArN0RmcTBaQ2dpdEdpSjZTbnptN0w4TkhvMk9NLzVwN0U1ZDRwL2U1MVdUUEVlaXpyVWU0TVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxNjMxCWZpbGU6Q2FuZHktMC4xLjE0LXdpbmRvd3MteDg2XzY0LmV4ZQl2ZXJzaW9uOjAuMS4xNAp6MjFwdkR5T3NMWkNEQjhjbDNUR3k3aHNWaEZ3NktaNDgyWUxjTnkrMGtPaVNKbzhFUUJ0VkthKzNIT292ZVE2WS9INk9CODdIZ0d1M2djekMxeHNEZz09Cg==",
+      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.14/Candy-0.1.14-windows-x86_64.exe"
     },
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbnNhZFJKdXgwQmMva2xpcWswZzYvd3JIMWtHNWhYWmpJSXE4dTlENG9ldkw5RHdDQTN6Z2NiZ1lFN0c4aXkrZ2ZldEVCSkZXMVZ4dlFnL1BEUThySmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYwOTkyCWZpbGU6Q2FuZHktMC4xLjEzLXdpbmRvd3MtYXJtNjQuZXhlCXZlcnNpb246MC4xLjEzCi9KSWppRzRBOTIxWHhZVDFZVldvdXk1bXVyWkFMVFZDWXMvWTllNjZhTWNBR2UxSHh2UGJLVDFPcjJpc21yUkxOS09YcFBNdE13b3JhbGpQUU0zSEN3PT0K",
-      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.13/Candy-0.1.13-windows-arm64.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbnJCTzhoMWQyQUxRYzdjK056L1NWalhISE1ONHdUYjVvNUUwT2V2RXZxVVErNUpnRWJrV2pjdDhzb2lMNThETzJMdERCRU5CQWtXMkVmZXliYVRobEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxODk2CWZpbGU6Q2FuZHktMC4xLjE0LXdpbmRvd3MtYXJtNjQuZXhlCXZlcnNpb246MC4xLjE0Ckw2SXVTSDVXbmFoZFl4aWQ1S2FCUFRUTGt5RjV1TW5UK0VNNDNNWWsvbjBabGJidmh1cjB5MitiQzhLcmxFODY2bDJnK0paQTZjUXRxTnJXdXBDSkNnPT0K",
+      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.14/Candy-0.1.14-windows-arm64.exe"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbnFZcHdQWm9zVldqcExkV0cxcVpDRWs0YitWSld0Y2pCY1BsV2JHZlpoNkV1RUI5bEFTcjNhekw0WTVvajBkeU5mZmlxQURmUzh4UzFxVW0vQklBcVFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYwMDY2CWZpbGU6Q2FuZHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xMwpocm5RUVcvUHF1OFVRQXdIOXJtalh0bXd1NDQ0dEVoUUtRUEhTbVNHSmlmaS9kT2NVMXovQUd4eXh1QzFkZzlxS0ErRkpJZEcyQ0pLNkFwWTlvMDFDQT09Cg==",
-      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.13/Candy-0.1.13-macos-arm64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbm9id25oRnBSajFhemR2bTNRQXFQNVVUT2lhN3pMYnFORElVMFZHc2RuUmVHYUtyRElUN0cxZXErODBZNFAwcWFUcnA4WW92QlJOd21RTUFqUk1POGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxNTc4CWZpbGU6Q2FuZHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xNApOanErUm1FemF0Z3BDWlJiUVZsVVZhTVJjb1F1VmpFaHRwNmNSeDk1Z21CQ0plMGp5TWg3c2pSZ3BSS2hCc2VneVhJVENqRFVQSUkyTlUvTDFCSDVEdz09Cg==",
+      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.14/Candy-0.1.14-macos-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbmpUOU9MUEtTOTBJTDdUdzVkZ0R0ZTRURmlpN1dWVzd1am5MS1p5cUVWTTNlYnIyTElaTWRnOE1PYjlKVHY5Wkw2OWRBczkrVnEzNXk2cmZUall3VlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjYxMDU2CWZpbGU6Q2FuZHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xMwo1VkNnSllRTHhVZEtsL0dYM3V3US9tSHdTa3B5MndLMG5rWXRJUHF1TkRaQnhSU2E5dGZhQ3pqMFJtUGFWc0JOV3dqcEd3RnVaaTkxb1BtZWZvU05Edz09Cg==",
-      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.13/Candy-0.1.13-macos-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY20xdkZLVHJnbm5KWVgzWWFQL1dPUUxoMjltb2RSNC9ZelNJNDlzd3lvcmQwTzdMa1ZQV2RGbVYyTmFtb3RsOEJPb3E0MER3ZFhEa3dGY3RORlh3SDJsNDJQS0ZyeXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzAxOTMxCWZpbGU6Q2FuZHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4xNAp5bWd6ZVFGYXN0bCtCSzk4NzR1SU1teEdSRjJxeGp5TXlpZlFxYnZvQjJpcm03bzlVODVDVm4xbExHN05WMUtpT0c3bE9HcVJpc1dsU1FsMDh4Q3FBQT09Cg==",
+      "url": "https://github.com/Bepartofyou/app-release/releases/download/candy-desktop-v0.1.14/Candy-0.1.14-macos-x86_64.app.tar.gz"
     }
   }
 }
